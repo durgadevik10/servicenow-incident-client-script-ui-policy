@@ -31,4 +31,4 @@ This is a team-based ServiceNow project completed as part of the Skillwallet pro
 
 ## Evidence
 
-Screenshots and relevant implementation files are included in this repository.
+Relevant implementation files are included in this repository.
